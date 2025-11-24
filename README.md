@@ -1,6 +1,6 @@
 Enter the labyrinth and test your courage and wit. Will you survive to the exit, or will you perish at the mighty axe of the MINOTAUR?
 
-/
+-
 
 This is an on-going game mode, with multiple difficulty levels:
 
